@@ -1,54 +1,35 @@
-📊 Adidas US Sales Dashboard Report
-  This repository contains a detailed Excel-based sales analysis dashboard for Adidas USA. The dashboard presents key insights into sales performance across various regions, product types, and time periods.
+- 📊 Adidas US Sales Dashboard Report: Comprehensive Excel dashboard analyzing Adidas USA sales with insights on regions, products, and time periods.
 
-📁 File Structure
-The main Excel report featuring:
+- 📁 File Structure:
+    * Interactive dashboard
+    * Charts and visualizations
+    * Pivot tables and slicers
+    * Sales summary by product, region, retailer, and date
 
-  Interactive dashboard
+- 🧾 Report Highlights:
+    ✅ KPIs: Total Sales, Units Sold, Profit, Average Selling Price  
+    🌍 Regional Sales: Distribution across US regions  
+    🛍️ Product Insights: Performance by type, retailer, and model  
+    📅 Trends: Monthly and quarterly breakdowns  
+    📈 Visuals: Interactive, clean charts
 
-  Charts and visualizations
+- 📦 Requirements:
+    * Microsoft Excel (2016 or later)
+    * Spreadsheet software supporting slicers, pivot tables, and charts
 
-  Pivot tables and slicers
+- 📚 How to Use:
+    * Download/clone the repository.
+    * Open the Excel file in Microsoft Excel.
+    * Use slicers and filters to explore data.
+    * Navigate dashboards for insights.
 
-  Sales summary by product, region, retailer, and date
+- 🔍 Use Cases:
+    * Business performance tracking
+    * Sales strategy planning
+    * Executive reporting
+    * Data visualization practice
 
-🧾 Report Highlights
-
-  ✅ KPIs Tracked: Total Sales, Units Sold, Profit, and Average Selling Price
-
-  🌍 Region-wise Breakdown: Sales distribution across different US regions
-
-  🛍️ Product Performance: Insights by product type, retailer, and model
-
-  📅 Time Series: Month-wise and quarter-wise trends
-
-  📈 Visualizations: Clean, interactive charts for quick understanding
-
-📦 Requirements
-  Microsoft Excel (2016 or later)
-  or
-  Any spreadsheet software that supports slicers, pivot tables, and charts
-📚 How to Use
-  Download or clone the repository.
-
-  Open the Excel file in Microsoft Excel.
-
-  Use the slicers and filters to explore the data.
-
-  Navigate through different dashboards to gain insights.
-
-🔍 Use Cases
-  Business performance monitoring
-
-  Sales strategy analysis
-
-  Executive reporting
-
-  Data visualization practice
-
-📌 Notes
-  Data has been cleaned and structured for easy reporting.
-
-  No external plugins or macros required.
-
-  The report is best viewed on a desktop.
+- 📌 Notes:
+    * Data cleaned and structured for ease.
+    * No plugins or macros needed.
+    * Best viewed on desktop.

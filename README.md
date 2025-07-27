@@ -7,7 +7,7 @@
     * Sales summary by product, region, retailer, and date
 
 - 🧾 Report Highlights:
-    ✅ KPIs: Total Sales, Units Sold, Profit, Average Selling Price  
+    ✅ KPIs: Total Sales, Units Sold 
     🌍 Regional Sales: Distribution across US regions  
     🛍️ Product Insights: Performance by type, retailer, and model  
     📅 Trends: Monthly and quarterly breakdowns  
